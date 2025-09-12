@@ -11,6 +11,13 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
  ![Agregar nombre](assets/Imagen001.png)
 
+**Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
+
+   ![Lista de nombres](assets/Imagen002.png)
+
+**Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
+
+   ![Resultado sorteo](assets/Imagen003.png)
 
 
 

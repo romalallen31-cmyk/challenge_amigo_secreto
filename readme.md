@@ -9,7 +9,8 @@ Este desafío consiste en una aplicación que permite a los usuarios ingresar no
 
 **Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
 
- ![Agregar nombre](./assets/Image001.png)
+ ![Agregar nombre](./assets/Imagen001.png)
+
 
 
 
